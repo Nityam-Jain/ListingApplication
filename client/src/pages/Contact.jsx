@@ -42,12 +42,12 @@ export default function Contact() {
         >
           <h2 className="text-xl font-bold mb-4">Customer Support</h2>
           <p className="mb-4">Need some help? Get in touch with us.</p>
-          <p className="mb-2">📞 +91 7415093305</p>
-          <p className="mb-2">✉️ contact@laptoprepairinbhopal.com</p>
-          <p className="mb-4">📍 52, 1st Floor, near Manohar Dairy, Bhopal, MP 462011</p>
+          <p className="mb-2">📞 +91 8085202892</p>
+          <p className="mb-2">✉️ Lapcomsolution23@gmail.com </p>
+          <p className="mb-4">📍 UGF-1, Alakhnanda Complex, MP Nagar Zone-I, Indira Press Complex, Zone 1, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011</p>
           <h3 className="font-semibold mb-1">Working Hours</h3>
-          <p>Mon - Sat: 9:00AM - 7:30PM</p>
-          <p>Sun: Closed</p>
+          <p>Mon - Sat: 10:30AM - 9:00PM</p>
+          <p>Sun: 12:00PM - 8:00PM </p>
         </motion.div>
       </div>
     </section>

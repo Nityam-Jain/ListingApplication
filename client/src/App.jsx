@@ -8,6 +8,7 @@ import Products from './pages/Products.jsx';
 import About from './pages/About.jsx'; 
 import Contact from './pages/Contact.jsx';
 import HeaderBox from './components/Header.jsx';
+import FooterBox from './components/Footer.jsx'
 
 // const Placeholder = ({ title }) => <h2>{title} page coming soon...</h2>;
 
@@ -28,6 +29,7 @@ export default function App() {
           <Route path="*" element={<h2 className="text-center mt-20">Page not found</h2>} />
         </Routes>
       </main>
+    <FooterBox/>
       </>
    )
 }
